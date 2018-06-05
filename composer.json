@@ -1,0 +1,14 @@
+{
+    "name": "lari/simple-repo",
+    "description": "Simple Eloquent Model repository",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Szczepanski",
+            "email": "sebastian@ably.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
